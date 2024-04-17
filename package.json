@@ -1,0 +1,24 @@
+{
+  "name": "backend-assignment",
+  "version": "1.0.0",
+  "description": "shagun backend assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaspreet759/backend-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaspreet759/backend-assignment/issues"
+  },
+  "homepage": "https://github.com/jaspreet759/backend-assignment#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
